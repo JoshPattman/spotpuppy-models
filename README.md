@@ -1,4 +1,6 @@
 # spotpuppy-models
 ## Important:
-These file were created with FreeCad Link branch, not main branch FreeCad. I'm pretty sure they will brak if you try to open then with main FreeCad
- 
+This project was created with FreeCad Link branch, not main branch FreeCad. Usage of FreeCad main branch to open it may cause the files to break.
+## About
+ ![Render](Render.png) \
+This is a 3D printable quadruped robot designed for use with a raspberry pi 4. The actuators are MG90s micro servos.
